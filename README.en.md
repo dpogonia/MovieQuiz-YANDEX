@@ -27,8 +27,8 @@ UIKit, URLSession, UserDefaults, XCTest. The app targets iPhone on iOS 15, portr
 ## Run
 
 ```bash
-git clone https://github.com/dpogonia/MovieQuiz.git
-cd MovieQuiz
+git clone https://github.com/dpogonia/MovieQuiz-Yandex.git
+cd MovieQuiz-Yandex
 open MovieQuiz.xcodeproj
 ```
 
