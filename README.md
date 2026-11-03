@@ -27,8 +27,8 @@ UIKit, URLSession, UserDefaults, XCTest. Приложение рассчитан
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/MovieQuiz-Yandex.git
-cd MovieQuiz-Yandex
+git clone https://github.com/dpogonia/MovieQuiz-YANDEX.git
+cd MovieQuiz-YANDEX
 open MovieQuiz.xcodeproj
 ```
 
